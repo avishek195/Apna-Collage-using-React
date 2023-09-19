@@ -1,0 +1,48 @@
+.poster-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.Poster{
+    height: 420px;
+    width: 400px;
+    padding-top: 0px;
+    /* border: 2px solid red; */
+    background-color: aqua;
+}
+
+.photo{
+    height: 175px;
+    text-align: center;
+}
+.img{
+     height: 200px;
+    width: 400px;
+}
+
+.delta{  
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.details{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+button{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(114, 114, 224);
+    color: white;
+    font-weight: 800;
+}
+
+.batch{
+    font-size: 20px;
+    font-weight: 900;
+}

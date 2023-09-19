@@ -1,0 +1,17 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.left-side{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    font-size: 40px;
+}

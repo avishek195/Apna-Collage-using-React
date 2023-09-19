@@ -1,0 +1,9 @@
+
+.name-container{
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}

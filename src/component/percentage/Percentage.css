@@ -1,0 +1,12 @@
+
+.p-container{
+    height: 5px;
+    width: auto;
+    background-color: aqua;
+}
+
+.p-show{
+    height: 4px;
+    width: 91%;
+    background-color: blue;
+}
